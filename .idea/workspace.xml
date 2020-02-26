@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="experimental" />
@@ -70,6 +70,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="506" y="201" key="#Project_Structure" timestamp="1582722155495">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="506" y="201" key="#Project_Structure/0.23.1792.1031@0.23.1792.1031" timestamp="1582722155495" />
     <state x="560" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1582719350890">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -78,9 +82,9 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="684" y="334" key="git4idea.merge.GitMergeDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1582718712184" />
-    <state x="571" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1582719402149">
+    <state x="571" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1582722177553">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="571" y="254" width="670" height="676" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1582719402149" />
+    <state x="571" y="254" width="670" height="676" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1582722177553" />
   </component>
 </project>
